@@ -35,7 +35,6 @@ I hold a degree in Mechanical Engineering and a Master's in Big Data & Data Anal
 I’ve worked as a researcher, engineer, process analyst, consultant, and project manager—across Spain, Norway, and Peru. I speak Spanish, Catalan, and English, and I'm an enthusiast of Brazilian Jiu-Jitsu, public speaking, and philosophy.
 
 
-
 ## 🛠️ Technologies & Tools
 
 ### 💻 Languages
@@ -76,6 +75,15 @@ I’ve worked as a researcher, engineer, process analyst, consultant, and projec
 **Tools:** Power BI · Excel · n8n · Git · Google Sheets  
 **Libraries:** Pandas · NumPy · Scikit-learn · Statsmodels · Prophet · ARCH · Seaborn · Matplotlib  
 **Concepts:** Time Series Forecasting · Prompt Engineering · REST APIs · LLM Integration · Agile · Scrum · OKRs
+
+## 🎯 Motivation & Goals
+
+I’m driven by a deep interest in using technology to solve real-world problems. After working across engineering, business, and data roles, I realized that software is the medium through which I can scale ideas into solutions with lasting impact.
+
+My goal is to grow as a backend-focused developer, building systems that automate processes, improve decision-making, and integrate artificial intelligence in useful, reliable ways. I aim to work in environments where I can collaborate with others, continuously learn, and contribute to impactful products.
+
+I'm committed to mastering the fundamentals of software engineering while applying my previous experience in process design, analysis, and automation. This transition is not a leap—it's a logical evolution of how I think, build, and deliver value.
+
 
 ## 📂 Featured Projects (in progress)
 
