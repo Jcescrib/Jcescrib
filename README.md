@@ -34,6 +34,36 @@ I hold a degree in Mechanical Engineering and a Master's in Big Data & Data Anal
 
 I’ve worked as a researcher, engineer, process analyst, consultant, and project manager—across Spain, Norway, and Peru. I speak Spanish, Catalan, and English, and I'm an enthusiast of Brazilian Jiu-Jitsu, public speaking, and philosophy.
 
+
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-003B57?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-204ECF?style=flat&logo=powerbi&logoColor=white)
+
+### 🧰 Tools
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF6C00?style=flat&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+
+### 📚 Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-lightgrey?style=flat)
+![Prophet](https://img.shields.io/badge/Prophet-black?style=flat)
+![ARCH](https://img.shields.io/badge/ARCH-black?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+
+
+
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Languages
