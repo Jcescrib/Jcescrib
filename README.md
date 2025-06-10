@@ -5,7 +5,11 @@
 I hold a degree in Mechanical Engineering and a Master's in Big Data & Data Analysis. I am passionate about applying automation and artificial intelligence to solve real-world problems. I’ve worked with time series forecasting models for price prediction and built low-code automations using n8n.
 
 
+## 🔭 I’m currently working on...
 
+- Updating and organizing my GitHub profile to showcase past and ongoing projects  
+- Documenting applied projects involving forecasting, data automation, and low-code tools  
+- Developing AI-powered tools and chatbots, including early experiments with agent-based systems
 
 
 
