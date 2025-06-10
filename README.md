@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Joan Cepero Escribano
+![Portada_LinkdIn](https://github.com/user-attachments/assets/24043e70-2f7b-48a2-b688-e1501f60cbce)
 🎓 **Business Analyst & Process Engineer** transitioning into full-stack development  
 🔁 From strategy to code — passionate about automation, AI, and building real-world solutions
 
@@ -20,16 +21,12 @@ I hold a degree in Mechanical Engineering and a Master's in Big Data & Data Anal
 
 ## 👯 I’m looking to collaborate on...
 
+
 - Lightweight AI and automation tools for everyday productivity and workflow enhancement  
 - Open-source automation pipelines for data collection, processing, and notifications  
 - Backend tools for data transformation, reporting, and KPI tracking  
 - Data analysis projects focused on extracting actionable insights  
 - Process analysis and optimization initiatives across business domains
-
-## 📫 How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-cepero)  
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:joan.cepero@gmail.com)
 
 ## ⚡ Fun fact:
 
@@ -42,9 +39,21 @@ I’ve worked as a researcher, engineer, process analyst, consultant, and projec
 **Libraries:** Pandas · NumPy · Scikit-learn · Statsmodels · Prophet · ARCH · Seaborn · Matplotlib  
 **Concepts:** Time Series Forecasting · Prompt Engineering · REST APIs · LLM Integration · Agile · Scrum · OKRs
 
+## 📂 Featured Projects (in progress)
+
+I'm currently preparing full documentation and code cleanup for the following real-world projects:
+
+- **Bitcoin Price Forecasting Engine**  
+  Comparative study of 20+ time series models in Python (ARIMA, SARIMA, Prophet, ARCH...) to predict Bitcoin price fluctuations under different market conditions.
+
+- **Telegram Voice Note Classifier (AI Automation)**  
+  A lightweight pipeline using n8n, OpenAI Whisper, Telegram API, and Google Sheets to transcribe, classify, and store audio messages as structured data.
 
 
+## 📫 How to reach me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-cepero)  
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:joan.cepero@gmail.com)
 
 
 
