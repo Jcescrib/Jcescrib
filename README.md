@@ -61,6 +61,14 @@ I’ve worked as a researcher, engineer, process analyst, consultant, and projec
 ![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
+### 📐 Concepts
+![Time Series Forecasting](https://img.shields.io/badge/Time%20Series%20Forecasting-3776AB?style=flat&logo=python&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=flat)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=api&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-24292E?style=flat)
+![Agile](https://img.shields.io/badge/Agile-1B8BF9?style=flat&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
+![OKRs](https://img.shields.io/badge/OKRs-F36D5D?style=flat)
 
 
 
