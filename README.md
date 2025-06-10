@@ -70,15 +70,7 @@ I’ve worked as a researcher, engineer, process analyst, consultant, and projec
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
 ![OKRs](https://img.shields.io/badge/OKRs-F36D5D?style=flat)
 
-
-
-## 🛠️ Technologies & Tools
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-003B57?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-204ECF?style=flat&logo=powerbi&logoColor=white)
+## 🛠️ Technologies & Tools (Plain Text)
 
 **Languages:** Python · VBA · SQL · DAX  
 **Tools:** Power BI · Excel · n8n · Git · Google Sheets  
