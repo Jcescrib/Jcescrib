@@ -1,5 +1,7 @@
+<img src="https://github.com/user-attachments/assets/24043e70-2f7b-48a2-b688-e1501f60cbce" alt="Juan Cepero GitHub Banner" style="width:100%; height:auto;" />
+
 # 👋 Hi, I'm Joan Cepero Escribano
-![Portada_LinkdIn](https://github.com/user-attachments/assets/24043e70-2f7b-48a2-b688-e1501f60cbce)
+
 🎓 **Business Analyst & Process Engineer** transitioning into full-stack development  
 🔁 From strategy to code — passionate about automation, AI, and building real-world solutions
 
